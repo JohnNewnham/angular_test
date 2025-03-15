@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.padding-small {
+    padding: 5px;
+}
+
+.card-box {
+    border-color: #747474;
+    background-color: #9b9b9b;
+    border-radius: 20px;
+    border-style: solid;
+    padding: 20px;
+    display: inline-block;
+}

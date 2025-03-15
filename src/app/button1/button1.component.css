@@ -1,0 +1,23 @@
+.button {
+    color: black;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    user-select: none;
+}
+
+.button:hover {
+    color: blue;
+    border-color: blue;
+    cursor: pointer;
+}
+
+.button:active {
+    color: aqua;
+    border-color: aqua;
+}
