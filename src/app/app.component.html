@@ -1,2 +1,4 @@
-<app-button1 [buttonText]="title" (buttonPressed)="buttonPressed()"></app-button1>
-<app-die-card [sides]="4"></app-die-card>
+<app-navbar (navbarEmitter)="changeState($event)"></app-navbar>
+
+<app-button1 *ngIf="pageState===PS.Test" [buttonText]="title" (buttonPressed)="buttonPressed()"></app-button1>
+<app-die-card *ngIf="pageState===PS.DiceRoller" [sides]="4"></app-die-card>
