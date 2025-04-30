@@ -1,0 +1,70 @@
+<div class="padding-medium unselectable">
+    <div class="card-box prompt-card" (click)="cardClicked()">
+        <span *ngIf="currentState===CS.Prompt">
+            <u>Prompt:</u> <br>
+            {{currentPrompt.prompt}}
+        </span>
+        <span *ngIf="currentState===CS.Answer">
+            <u>Answer:</u> <br>
+            {{currentPrompt.answer}}
+        </span>
+    </div>
+</div>
+
+<div class="button-list">
+    <app-button1 class="button-item" (buttonPressed)="next(false)" [buttonText]="'Skip'"></app-button1>
+    <app-button1 (buttonPressed)="next(true)" [buttonText]="'Next'"></app-button1>
+</div>
+
+<div class="padding-small unselectable">
+    <label class="container">Enable abbreviations
+        <input type="checkbox" [(ngModel)]="abbreviationsEnabled">
+        <span class="checkmark"></span>
+    </label>
+
+    <!-- <span *ngFor="let chapterBool of chaptersEnabled; index as i">
+        <label class="container">Chapter {{i+1}}
+            <input type="checkbox" [ngModel]="chapterBool" (change)="toggleChapter(i)">
+            <span class="checkmark"></span>
+        </label>
+    </span> -->
+
+    <label class="container">Chapter 1
+        <input type="checkbox" [ngModel]="chaptersEnabled[0]" (change)="toggleChapter(0)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 2
+        <input type="checkbox" [ngModel]="chaptersEnabled[1]" (change)="toggleChapter(1)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 3
+        <input type="checkbox" [ngModel]="chaptersEnabled[2]" (change)="toggleChapter(2)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 4
+        <input type="checkbox" [ngModel]="chaptersEnabled[3]" (change)="toggleChapter(3)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 5
+        <input type="checkbox" [ngModel]="chaptersEnabled[4]" (change)="toggleChapter(4)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 6
+        <input type="checkbox" [ngModel]="chaptersEnabled[5]" (change)="toggleChapter(5)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 7
+        <input type="checkbox" [ngModel]="chaptersEnabled[6]" (change)="toggleChapter(6)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 8
+        <input type="checkbox" [ngModel]="chaptersEnabled[7]" (change)="toggleChapter(7)">
+        <span class="checkmark"></span>
+    </label>
+    <label class="container">Chapter 9
+        <input type="checkbox" [ngModel]="chaptersEnabled[8]" (change)="toggleChapter(8)">
+        <span class="checkmark"></span>
+    </label>
+</div>
+
+<app-button1 class="button-item" (buttonPressed)="test()" [buttonText]="'Test'"></app-button1>

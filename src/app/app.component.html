@@ -1,4 +1,5 @@
 <app-navbar (navbarEmitter)="changeState($event)"></app-navbar>
 
+<app-prompt-cards *ngIf="pageState===PS.Prompts"></app-prompt-cards>
 <app-button1 *ngIf="pageState===PS.Test" [buttonText]="title" (buttonPressed)="buttonPressed()"></app-button1>
 <app-die-card *ngIf="pageState===PS.DiceRoller" [sides]="4"></app-die-card>

@@ -1,0 +1,1352 @@
+[
+	{
+		"prompt": "Financial risks",
+		"answer": "Risks capable of financial measurement. Insurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Fortuitous event",
+		"answer": "An event that is accidental or unexpected and not inevitable. Can be insured against.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Frequency",
+		"answer": "How often something will occur.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Fundamental risks",
+		"answer": "Risks on such a vast scale that they are uninsurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Hazard",
+		"answer": "That which influences the operation or effect of the peril. (E.g. lack of sprinklers in the event of a fire)",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Homogeneous exposures",
+		"answer": "Similar risks.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Insurable interest",
+		"answer": "Legally recognised financial relationship between the insured and the object/liability being insured.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Non-financial risks",
+		"answer": "Risks we cannot financially measure. Uninsurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Particular risks",
+		"answer": "Risks localised or personal in their cause and effect. Insurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Peril",
+		"answer": "That which gives rise to a loss. (E.g. fire)",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Pooling of risk",
+		"answer": "Gathering together of premiums from many risks into a pool of money to pay off claims, costs of operating the pool and profits for the insurer.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Pure risks",
+		"answer": "Risks where only the possibility of loss exists. Insurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Risk",
+		"answer": "Possibility of something unfortunate happening, doubt concerning how something will turn out, unpredictability, possibility of a loss and chance that there might be a gain, peril being insured, subject-matter of insurance, the thing insured, such as the property itself, and the range of contingencies or scope of cover required.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Risk transfer",
+		"answer": "Replacing uncertainty of possible future loss with certainty of an agreed premium (insurance as a risk transfer mechanism).",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Severity",
+		"answer": "How serious something will be if it does happen.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Speculative risks",
+		"answer": "Risks where one could stand to gain. Uninsurable.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Uncertainty",
+		"answer": "Doubt about the future as a result of our incomplete ability to predict what is going to happen.",
+		"chapter": 1,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Consensus ad idem",
+		"answer": "When both parties believe they are agreeing to the same thing.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Consideration",
+		"answer": "Some right, interest, profit or benefit accruing to one party, or some forbearance, detriment, loss or responsibility given, suffered or undertaken by the other.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Contract law",
+		"answer": "An insurance contract is: an agreement, enforceable by law, between an insured and an insurer.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Deductible",
+		"answer": "An amount that is deducted from each claim and is paid by the insured. It counts towards the policy limit.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Duty of fair presentation",
+		"answer": "Before a contract of insurance is entered into, the insured must make to the insurer a fair presentation of the risk.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Estoppel",
+		"answer": "A bar or impediment that precludes a person from asserting a fact or a right.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Excess",
+		"answer": "An amount that is deducted from each claim and is paid by the insured. It does not count towards the policy limit.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Financial value",
+		"answer": "The monetary value of the insured loss.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Franchise",
+		"answer": "The first amount of any claim that the insured must pay themselves but for any claim above that amount the insurer instead pays the whole amount and the insured pays nothing (unless the claim exceeds the policy limit).",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Fulfilment of a contract",
+		"answer": "This means that the contract has been fully performed – it has done its job in other words.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Good faith",
+		"answer": "When all parties do not mislead one another.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Inception",
+		"answer": "When the contract is formed. This is when the duty of disclosure starts.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Indemnity",
+		"answer": "Financial compensation sufficient to place the insured in the same financial position after a loss as they enjoyed immediately before the loss occurred.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Insured perils",
+		"answer": "Those named in the policy as covered.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Offer and acceptance",
+		"answer": "When one party makes an offer which the other accepts unconditionally.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Proximate cause",
+		"answer": "The dominant cause and there is a direct link between it and the resulting loss.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Subject-matter of insurance",
+		"answer": "This is what is actually being insured, be it a physical thing such as a building, a car, a ship or some livestock, or the potential to be held legally liable for loss or damage to someone else or their property.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Subject-matter of the contract",
+		"answer": "This is the relationship that the insured has with the subject-matter of insurance. It might be ownership of property, responsibility for the safe-keeping of goods stored in a warehouse, or liability as the owner of a restaurant if the customers contract food poisoning.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Sum insured",
+		"answer": "The maximum amount that can be recovered under a property insurance policy is limited to the sum insured.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Tort",
+		"answer": "A breach of the duty to act in a reasonable way towards others.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Underinsurance",
+		"answer": "If the insured understates the value of subject-matter of the insurance when taking out their policy, there is said to be underinsurance.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Valid contract",
+		"answer": "Offer and acceptance, consideration, intention to create a legal agreement, possibility of performance, capacity to enter into legal relations, consensus ad idem, legality, certainty (clear and unambiguous terms).",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Voidable contracts",
+		"answer": "When circumstances allow one party to set aside a contract. E.g. when due to the deliberate failure to disclose information. One must choose to void the contract, it is not an automatic cancellation.",
+		"chapter": 2,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Advanced loss of profits (ALOP) insurance",
+		"answer": "Coverage for financial losses due to delays in construction and infrastructure projects.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Aviation insurance",
+		"answer": "Insurance relating to aircraft and gliders.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Business interruption (BI) insurance",
+		"answer": "Insurance which requires physical loss or damage to the insured property which triggers the shutdown and insures the consequent loss of income. A separate policy or extension of coverage known as a ‘contingent business interruption’ can extend BI to shutdowns triggered by problems located outside of the property itself.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Cargo insurance",
+		"answer": "This insurance covers physical damage to the goods whilst they are on their journey and does not cover any liabilities for the cargo damaging any persons or their property.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Contractors all risks (CAR) insurance",
+		"answer": "Policies usually purchased by the main contractor on behalf of other sub-contractors which are a combination of physical damage and liability cover.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Delay in start-up (DSU) insurance",
+		"answer": "Insurance covering the financial impact of a project not starting up on time.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Erection all risks (EAR)",
+		"answer": "Policies purchased by the contractor responsible for putting up or installing machinery, or steel structures of any type.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Goods in transit insurance",
+		"answer": "This insurance covers the liability of the carrier in respect of the goods being carried.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Long-tail insurance",
+		"answer": "Insurance where there can be a significant time period between the insurance period, and the final closure of claims made on that insurance.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Marine insurance",
+		"answer": "Insurance that generally has some connection to the sea but marine insurers are quite prepared to cover risks that have nothing obvious to do with the sea.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Mutuals",
+		"answer": "Like-minded organisations grouping together and forming an insurance pool amongst themselves, often run by professional managers on behalf of the member firms which vary between lawyers, architects and marine liability insurers.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Non-marine insurance",
+		"answer": "Insurance not relating to the sea. Very broad and has a lot of overlap with other types of insurance. Covers property insurance, stock insurance, glass insurance, money insurance, fidelity guarantee insurance, construction insurance etc…",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Motor liability insurance",
+		"answer": "Basic motor liability insurance is also a compulsory insurance in the UK and covers only liability to a third party for loss or damage to them or to their property.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Personal accident insurance",
+		"answer": "Insurance triggered by an accident that has a schedule of benefits which are paid out should the policy be triggered and is therefore not a policy of indemnity.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Personal illness or sickness insurance",
+		"answer": "Insurance which is triggered by sickness as well as an accident or injury. This insurance is often also known as accident, sickness and unemployment cover (ASU). ",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Political risks insurance",
+		"answer": "Insurance that offers one of the means for investors and businesses to mitigate and manage the risks arising from the (in)actions of, or the restrictions imposed by, hostile or unconstitutional governmental actions.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Products liability",
+		"answer": "This insurance relates to a product causing physical damage to something or injury to someone (personal or bodily injury).",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Professional liability insurance",
+		"answer": "Covers professionals such as lawyers, doctors, accountants, stockbrokers against the risk of a claim being made against them for incorrect advice or negligent activity.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Property insurance",
+		"answer": "Physical damage insurance for buildings.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Public liability insurance",
+		"answer": "Covers any party who is liable for loss or damage caused to members of the public visiting their premises, or for any loss or damage caused by an employee to a client or member of the public.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Reinsurance",
+		"answer": "A contract of insurance where the entity buying the policy is itself already an insurer and is buying the reinsurance for itself in order to transfer some of the risks it has underwritten through risk transfer from the original or direct insureds.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Short-tail insurance",
+		"answer": "Insurance with a short time lag between the insurance incepting and the final closure of any claims under that insurance. Also known as first party insurance.",
+		"chapter": 3,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Equilibrium",
+		"answer": "The ideal balance is that the quantity supplied equals the quantity demanded.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Impact of major events",
+		"answer": "Generally shortens the insurance cycle by accelerating reduction in individual players (reducing supply) in some areas, permitting significant increases in premiums.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Insurance cycle",
+		"answer": "The cycle of: high prices and profits, new insurers join market and increase capacity, prices forced down due to high supply leading to aggressive pricing, losses or lower profits cause insurers to leave the market (leading to), high prices and profits…",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Legal and political influences",
+		"answer": "E.g. changing of law to make more/fewer types of insurance compulsory, change of law extending liabilities insureds can be found responsible, ability to write business in other areas of the world changing (such as obtaining a licence from authorities or opening offices elsewhere).",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Necessities versus luxuries",
+		"answer": "Self-explanatory. Insurance is not generally called a luxury as buying of insurance can be obligatory or a required term for doing business.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Pricing",
+		"answer": "Self-explanatory.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Price elasticity of demand",
+		"answer": "The ‘elasticity’ element is working out how much the demand goes down as the price goes up.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Subscription market",
+		"answer": "A market where a number of insurers can take shares of the same risk depending on their appetite and capacity.",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Supply and demand",
+		"answer": "The relationship between the price of the commodity and the quantity traded. ",
+		"chapter": 4,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Brokers",
+		"answer": "Professional intermediaries and act as the agent of the re/insured in both the placing and claims process.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Captive insurers",
+		"answer": "These are insurance companies who are solely insuring risks from sister companies in the same group.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Contract certainty",
+		"answer": "The complete and final agreement of all terms between the insured and the insurer by the time that they enter into the contract, with contract documentation provided promptly thereafter.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Council of Lloyd's",
+		"answer": "Is responsible for the management and supervision of the Market. Typically has three working, three external and nine nominated members. The working and external members are elected by Lloyd’s members. The Chairman and Deputy Chairmen are elected annually by the Council from among its members. All members are approved by the FCA.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Limited liability company",
+		"answer": "The most common format and the one used by the household names such as Aviva, AXA, Churchill and Zurich.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Lloyd's of London",
+		"answer": "A Society of Members; and the Corporation of Lloyd’s provides the infrastructure for the marketplace together with a responsibility for international liaison.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Lloyd's Franchise Board",
+		"answer": "Literally only mentioned in the key terms table and nowhere else in the whole LM1 document. Highly unlikely to come up.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Managing agent",
+		"answer": "The entity which appoints the underwriters who may accept risks on behalf of the syndicate. Managing agents are companies specifically established to manage the underwriting of one or more syndicates.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Managing general agent (MGA)",
+		"answer": "An organisation which has been given authority on behalf of an insurer to undertake a number of different tasks such as accepting risks, issuing documents or handling claims.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Members' agent",
+		"answer": "Those who advise their client on the advantages and disadvantages of investing in the Lloyd’s Market, as part of a wider investment portfolio.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Mutual companies",
+		"answer": "These are owned by the policyholders and generally serve a specific interest group – the most well-known example is the National Farmers Union – NFU Mutual. All profits made are either retained within the company or returned to the policyholder as a dividend or as reduced future premiums.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Mutual indemnity associations",
+		"answer": "These are similar to syndicates and managing agents in that they are groups of like-minded customers who pool together to create their own insurance pool and organise professional managers to run the business.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Names",
+		"answer": "Both types of investor (individual or corporate) are known as underwriting members or Names.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Open years management",
+		"answer": "If an agreement cannot be reached to reinsure the liabilities of any syndicate year of account, then that year is left open until more clarity can be obtained on outstanding liabilities. Once clarity is obtained then further attempts can be made to agree a RITC.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Placing a risk",
+		"answer": "Usage of a 'slip' (MRC) to cover the risk to a total coverage of the amount of cover required.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Presenting a claim",
+		"answer": "Circulating of the claim, either in paper form or electronically, to all of the insurers that are required to see and agree the claim (the Agreement parties).",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Reinsurance to Close (RITC)",
+		"answer": "When a syndicate reinsures the outstanding liabilities with the syndicate's next year of account so it can close its books.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Society of Members",
+		"answer": "Only mentioned in key terms and once more to describe Lloyd's of London without any definition. Hopefully self-explanatory.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Syndicates",
+		"answer": "Groups of private individuals or corporate investors who carry the risks.",
+		"chapter": 5,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Admitted basis",
+		"answer": "The basis by which US state regulators can grant permission to foreign insurance companies to write business alongside local insurers.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Capital adequacy",
+		"answer": "The concept that the equation for an insurers' capital requirements have risk elements factored in.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Central fund",
+		"answer": "A central pot of money maintained by Lloyd's as a contingency in case the members that underwrote a risk are not in a position to pay claims in order to ensure no valid insurance claim made with a Lloyd's member goes unpaid.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Commercial customer",
+		"answer": "A customer who is not \"a natural person acting for purposes which are outside of their trade or profession\" (not a consumer).",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Conduct risk",
+		"answer": "The risks associated with an organisation's ability to deliver fair customer outcomes and to protect the integrity of the markets.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Consumer",
+		"answer": "A natural person acting for purposes which are outside of their trade or profession.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Fair treatment of customers",
+		"answer": "The FCA expects those authorised to be able to show consistently that fair treatment of their customers is at the heart of their business model. They have defined this to mean addressing the fair treatment of customers throughout the product life-cycle.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Lloyd's Market governance",
+		"answer": "The manner by which Lloyd's is regulated. The Society of Lloyd's and the managing agents running the syndicates historically had distinct responsibilities.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Primary rules: byelaws and regulations",
+		"answer": "Rules that set out the fundamental concepts of how the marketplace must operate.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Protected disclosures",
+		"answer": "Disclosures of information in the public interest which you cannot lawfully be punished for making by an employer.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Run-off",
+		"answer": "A state in which a Lloyd's syndicate is prevented from taking on any further business.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Secondary rules: requirements",
+		"answer": "Rules containing the detail of what needs to be undertaken to comply with the primary rules.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Surplus lines basis",
+		"answer": "A basis which removes the need for all the filing of wordings and premium rates with the regulators.",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Whistle-blowing",
+		"answer": "Making a qualified disclosure (one in the public interest).",
+		"chapter": 6,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Anti-money laundering",
+		"answer": "Money laundering is converting illegal funds into legal funds through transactions. Payment of premium using illegal funds and then requesting a return premium is a good example of such activity.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Bribery",
+		"answer": "Bribery includes bribing others, being bribed, bribing a foreign public official and failing to prevent bribery.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Client verification",
+		"answer": "Firms must take all practical measures to check the identity of new clients. Photographic evidence, a home visit or the client's bank or another reputable financial institution can be sufficient verification.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Data protection principles",
+		"answer": "Lawfulness, fairness and transparency. Purpose limitation. Data minimisation. Accuracy. Storage limitation. Integrity and confidentiality. Accountability.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Export controls",
+		"answer": "A licence is required if there is movement of arms or other military goods between two overseas countries or if there is the involvement of any UK person including those UK entities which might be involved only by insuring such goods.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Financial crime",
+		"answer": "Fraud, dishonesty, misconduct in, or misuse of information relating to, a financial market, handling the proceeds of crime or financing terrorism.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Financial sanctions",
+		"answer": "Bans that are financial in nature such as: prohibiting the transfer of funds to a sanctioned country, freezing the assets of a company or an individual; and freezing the assets of a whole government, as well as the companies and residents of the country concerned.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Money laundering reporting officer (MLRO)",
+		"answer": "An appointed member of a firm who must make a report at least annually on how the anti-money laundering systems and controls operate and on their effectiveness.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Personal data",
+		"answer": "This is any information from which a living idividual can",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Principal money laundering offences",
+		"answer": "be identified, either directly or indirectly.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Sanctions",
+		"answer": "Concealing, transferring, converting, or removing criminal property. Making arrangements in respect of criminal property. Acquiring, using or possessing criminal property.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Solvency II",
+		"answer": "Bans.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Systems and controls",
+		"answer": "The name given to the EU's Europe-wide solvency rules. Solvency being the balance between assets and liabilities.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Trade sanctions",
+		"answer": "Measures put in place to avoid financial crime and therefore the corporate offense of failing to prevent financial crime.",
+		"chapter": 7,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Actual authority",
+		"answer": "Actual authority may be express (arising from the terms of an agency agreement) or implied (when the agent has to undertake a certain action to carry out express instructions or authority that is usual for the particular situation or business arrangement).",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Agency by consent",
+		"answer": "Agency by agreement. Both parties enter into a legally enforceable agreement.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Agency by necessity",
+		"answer": "Where a person is entrusted with someone else’s goods and it becomes necessary to act in a certain way in order to preserve the property in an emergency. ",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Agency by ratification",
+		"answer": "Ratification refers to a situation where an agent acts without authority, but the principal accepts the act as having been done by the agent on their behalf. ",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Agent",
+		"answer": "One who is authorised by one party – termed the ‘principal’ – to bring that principal into a contractual relationship with another – termed the ‘third party’. ",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Appointed representatives",
+		"answer": "May be an individual or a company that is appointed by an authorised person under the terms of a contract. An AR may be acting for an intermediary that is itself directly authorised by the regulator. The TOBA determines the AR’s role and responsibilities. The key feature is that the principal takes responsibility for the AR's activities in carrying on the business of the principal.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Authorised persons",
+		"answer": "An intermediary wishing to offer independent advice must apply for direct authorisation by the FCA. Once authorisd, a firm is bound to abide by all FCA rules. These rules",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Binding the risk",
+		"answer": "are demanding, particularly in terms of financial accounting, training and competence and reporting requirements. ",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Broker Insurance Document (BID)",
+		"answer": "Here, the broker contacts the insurers which provided the quote that was accepted and asks them to confirm or ‘ink’ their line on the slip. Whichever way it is done, this final confirmation creates the contract between each insurer and the client.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Delegated authority",
+		"answer": "The summary of the risk provided to the client by their broker, which sets out the key elements of the risk, rather than providing the client with either a copy of the full MRC or a formal policy.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Law of agency",
+		"answer": "Delegated authority from an insurer can be authority permitting them to bind risks on the insurer’s behalf but may be limited to certain types of business such as property insurance.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Principal",
+		"answer": "In law, everyone who acts on behalf of another person is an agent. If we allow someone to act for us, or even if we allow them to say that they are acting for us without denying the fact, we will probably have to accept responsibility for whatever actions they undertake on our behalf.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Retail broker",
+		"answer": "A party who authorises an 'agent' to bring them into a contractual relationship with another 'third party'.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Termination of agency",
+		"answer": "The broker with the direct contact with the client.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Terms of business agreement (TOBA)",
+		"answer": "An agency may be terminated in a number of ways – the most common being: mutual agreement; termination by one party or the other; or death, bankruptcy or insanity of any of the parties.",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Wholesale broker",
+		"answer": "Documents used in the London Market as a means of express appointment where the terms of the appointment are written down where both parties enter into a legally enforceable agreement (agency by consent).",
+		"chapter": 8,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Competition law",
+		"answer": "The law prohibits behaviour whereby the normal competitive nature of the insurance market is removed. ",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Following market underwriters",
+		"answer": "A following market underwriter is one who is not deemed to be the leader. However, it is important to appreciate that each underwriter who takes a share of the risk is creating a separate and distinct contract of insurance between their insurer and the insured – and they must consider the risk for themselves before they make that commitment.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Leader",
+		"answer": "The leader’s role is to: review the risk presentation being made by the broker; consider whether or not to accept it; decide the terms and conditions upon which to accept the proposal; and quote a premium.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Multiple placements",
+		"answer": "Where the broker must prepares and presents multiple sets of information to Xchanging for the risk recording and premium transfer process.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Subscription market",
+		"answer": "This means that more than one insurer participates in the same risk, each taking a fixed percentage of the risk.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Scratch",
+		"answer": "The combination of initials and a date that underwriters (and claims personnel) use to indicate that they have seen the presentation made.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "Underwriter",
+		"answer": "The person who makes the decision on behalf of an insurer whether to accept any risk presented.",
+		"chapter": 9,
+		"isAbbreviation": false
+	},
+	{
+		"prompt": "AIRMIC",
+		"answer": "Association of Insurance Risk Managers",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BRE",
+		"answer": "Building Research Establishment",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FPA",
+		"answer": "Fire Protection Association",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CAA",
+		"answer": "Civil Aviation Authority",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "IUA",
+		"answer": "International Underwriting Association",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "EL",
+		"answer": "Employers' Liability ",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ELTO",
+		"answer": "Employers' Liability Tracing Office",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ERNs",
+		"answer": "Employee Reference Numbers",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PI",
+		"answer": "Professional Indemnity",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FCA",
+		"answer": "Financial Conduct Authority",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CII (code of ethics)",
+		"answer": "Chartered Insurance Institute (code of ethics)",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SME",
+		"answer": "Small & Medium Enterprises",
+		"chapter": 1,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "MRC",
+		"answer": "Market Reform Contract, 'slip'",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ICOBS",
+		"answer": "Insurance: Conduct of Business Requirements",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LASPO",
+		"answer": "Legal Aid, Sentencing and Punishment of Offenders Act 2012",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ABI",
+		"answer": "Association of British Insurers",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FOS",
+		"answer": "Financial Ombudsman Service",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FGU",
+		"answer": "From the ground up",
+		"chapter": 2,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ALOP",
+		"answer": "Advanced Loss of Profits",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BI",
+		"answer": "Business Interruption",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CAR",
+		"answer": "Contractors All Risks",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "DSU",
+		"answer": "Delay in Start-Up",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "EAR",
+		"answer": "Erection All Risks",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PPI",
+		"answer": "Policy Proof of Interest",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PRI",
+		"answer": "Political Risks Insurance",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CEND",
+		"answer": "Confiscation, Expropriation, Nationalisation and Deprivation",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CCP",
+		"answer": "Central Counterparty",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "GDPR",
+		"answer": "General Data Protection Regulation",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ASU (cover)",
+		"answer": "Accident, Sickness & Unemployment (cover)",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PRA",
+		"answer": "Prudential Regulation Authority",
+		"chapter": 3,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PPL",
+		"answer": "Placing Platform Limited",
+		"chapter": 4,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "MGA",
+		"answer": "Managing General Agent",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "MGAA",
+		"answer": "Managing General Agents Association",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "RITC",
+		"answer": "Reinsurance To Close",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "R&R",
+		"answer": "Reconstruction & Renewal",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LLP",
+		"answer": "Limited Liability Partnership",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LMA",
+		"answer": "Lloyd's Market Association",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ILU",
+		"answer": "Institute of London Underwriters",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LIRMA",
+		"answer": "London Insurance and Reinsurance Market Association",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ACORD (standards)",
+		"answer": "Association for Cooperative Operations Research and Development (standards)",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BIBA",
+		"answer": "British Insurance Brokers' Association",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LMRC",
+		"answer": "London Market Regional Committee",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LIIBA",
+		"answer": "London and International Insurance Brokers' Association",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LMP",
+		"answer": "London Market Principles",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BID",
+		"answer": "Broker Insurance Document",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "A&S",
+		"answer": "Accounting and Settlement",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "XIS",
+		"answer": "Xchanging Ins-sure Services",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "IMRC",
+		"answer": "Intelligent Market Reform Contract",
+		"chapter": 5,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FPC",
+		"answer": "Financial Policy Committee",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PRIN",
+		"answer": "Principles for Business",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SYSC",
+		"answer": "Senior Management Arrangements, Systems and Controls",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "MLRO",
+		"answer": "Money Laundering Reporting Officer",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SMCR",
+		"answer": "Senior Managers and Certification Regime",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "PIDA",
+		"answer": "Public Interest Disclosure Act 1998",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ESG",
+		"answer": "Environmental, Social and Governance",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "TPR",
+		"answer": "Temporary Permissions Regime",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "EEA",
+		"answer": "European Economic Area",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "USVI",
+		"answer": "US Virgin Islands",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FSCS",
+		"answer": "Financial Services Compensation Scheme",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CBTL",
+		"answer": "Consumer Buy-To-Let",
+		"chapter": 6,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "(EU's) IDD",
+		"answer": "(EU's) Insurance Distribution Directive",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "OFSI",
+		"answer": "Office of Financial Sanctions Implementation",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BEIS",
+		"answer": "Department for Business, Energy and Industrial Strategy",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SDNs",
+		"answer": "Specially Designated Nationals",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "OFAC",
+		"answer": "Office of Foreign Assets Control",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ECO 2008",
+		"answer": "Export Control Order 2008",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SAR",
+		"answer": "Subject Access Request",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ICO",
+		"answer": "Information Commissioner's Office",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "POCA",
+		"answer": "Proceeds of Crime Act 2002",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SCA",
+		"answer": "Serious Crime Act 2007",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "FSMA",
+		"answer": "Financial Services and Markets Act 2000",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "JMLSG",
+		"answer": "Joint Money Laundering Steering Group",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "NCA",
+		"answer": "National Crime Agency",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CJA",
+		"answer": "Criminal Justice Act 2003",
+		"chapter": 7,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "TOBA",
+		"answer": "Terms of Business Agreement",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "CEO",
+		"answer": "Chief Executive Officer",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ARs",
+		"answer": "Appointed Representatives",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "LPANs",
+		"answer": "London Premium Advice Notes",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "UMR",
+		"answer": "Unique Market Reference",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "XCS",
+		"answer": "Xchanging Claims Service",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "ECF",
+		"answer": "Electronic Claims File",
+		"chapter": 8,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "BIPAR",
+		"answer": "European Federation of Insurance Intermediaries",
+		"chapter": 9,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "GUA",
+		"answer": "General Underwriters Agreement",
+		"chapter": 9,
+		"isAbbreviation": true
+	},
+	{
+		"prompt": "SCAP",
+		"answer": "Single Claims Agreement Party",
+		"chapter": 9,
+		"isAbbreviation": true
+	}
+]
