@@ -8,5 +8,5 @@ import { Component, Input } from '@angular/core';
 })
 export class DieCardComponent {
 
-	@Input() sides: number = 6;
+    @Input() sides: number = 6;
 }
